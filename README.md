@@ -1,4 +1,4 @@
 # appna-demo
 this is repo abc
 <br>
-author - Rohan Mirajkar
+author - Rohan Mirajkar( angular dev)
